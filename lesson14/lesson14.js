@@ -61,3 +61,4 @@ let resultYearSalary = parseInt(sentence4.substring(findIndexYearSalary, findInd
 let resultOnlineSalary = parseInt(sentence4.substring(findIndexOnlineSalary, findIndexLastOnlineSalary))
 let result = resultMonthSalary + resultYearSalary + resultOnlineSalary
 console.log(result);
+
